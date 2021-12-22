@@ -7,6 +7,7 @@ Blue
 Green
 Unicorn
 Yellow
+indigo
 Red
 These area the colours of my rainbow
 and the unicorn
